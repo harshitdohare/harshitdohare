@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @harshitdohare
-- 👀 I’m interested in Web Development, Python and Photography.
 - 🌱 I’m currently learning JavaScrpit
 - 📫 How to reach me harshit@duck.com
 

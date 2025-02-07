@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshitdohare
-- 🌱 I’m currently learning JavaScrpit
-- 📫 How to reach me harshit@duck.com
+- 🌱 I’m currently learning JS and Django.
+- 📫 How to reach me [![Email](https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail)](mailto:mailharshitdohare@gmail.com)
 
 <!---
 harshit
